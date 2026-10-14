@@ -4,14 +4,14 @@
 This project presents a D-Mart Retail Business Dashboard created using Microsoft Excel. It helps Analyze sales, Revenue, Profit, Discounts, and Payment methods through charts and visualization.
 
 # Tools Used
--Microsoft Excel
--Pivot Tables
--Pivot Charts
--Slicers
+-Microsoft Excel 
+-Pivot Tables 
+-Pivot Charts 
+-Slicers 
 
 # Dashboard Features
--Net Revenue Analysis
--Total Sales Analysis
+-Net Revenue Analysis 
+-Total Sales Analysis 
 -Total Discount Analysis
 -Total Profit Analysis
 -Quantity Sold Analysis
