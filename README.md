@@ -1,4 +1,4 @@
-                        # D-Mart Retail Business Dashboard
+                        D-Mart Retail Business Dashboard
 
 # Project Overview 
 This project presents a D-Mart Retail Business Dashboard created using Microsoft Excel. It helps Analyze sales, Revenue, Profit, Discounts, and Payment methods through charts and visualization.
